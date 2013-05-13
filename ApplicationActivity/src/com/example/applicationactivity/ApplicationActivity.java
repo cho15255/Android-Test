@@ -2,22 +2,38 @@ package com.example.applicationactivity;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.provider.CalendarContract.Instances;
 import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.view.View;
 
 public class ApplicationActivity extends Activity implements ViewPager.OnPageChangeListener {
 
+	private ApplicationActivityAdapter mAdapter;
+	private ViewPager mPager;
+	
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.page_1);
+        setContentView(R.layout.application_activity);
+        mAdapter = new ApplicationActivityAdapter(this);
+        
+        mPager = (ViewPager) findViewById(R.id.pager);
+        mPager.setOffscreenPageLimit(5);
+        mPager.setOnPageChangeListener(this);
+        mPager.setAdapter(mAdapter);
+        
     }
 
     
     private static final class ApplicationActivityAdapter extends PagerAdapter {
     	private static final int[] LAYOUT_IDS = {R.layout.page_1, R.layout.page_2, R.layout.page_3};
     	
+		public ApplicationActivityAdapter(
+				ApplicationActivity applicationActivity) {
+			// TODO Auto-generated constructor stub
+		}
+
 		@Override
 		public int getCount() {
 			return LAYOUT_IDS.length;

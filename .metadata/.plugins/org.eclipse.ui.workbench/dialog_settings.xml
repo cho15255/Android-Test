@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="1200" key="dialogWidth"/>
+		<item value="750" key="dialogHeight"/>
+		<list key="orderedProviders">
+			<item value="org.eclipse.e4.ui.parts"/>
+		</list>
+		<list key="textArray">
+			<item value="device"/>
+		</list>
+		<list key="orderedElements">
+			<item value="com.android.ide.eclipse.ddms.views.DeviceView"/>
+		</list>
+		<list key="textEntries">
+			<item value="1"/>
+		</list>
+	</section>
+</section>
