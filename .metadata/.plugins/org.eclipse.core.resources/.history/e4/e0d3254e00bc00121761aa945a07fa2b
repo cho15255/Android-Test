@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="back">&lt; </string>
+    <string name="back2">&lt;&lt;</string>
+    <string name="next">&gt; </string>
+    <string name="title">JH Testing</string>
+    <string name="app_title">A Testing</string>
+    <string name="page_number_1">page 1</string>
+    <string name="page_number_2">page 2</string>
+    <string name="page_number_3">page 3</string>
+
+</resources>
