@@ -1,0 +1,72 @@
+package com.example.applicationactivity;
+
+import android.content.Context;
+import android.util.AttributeSet;
+import android.view.View;
+import android.widget.Button;
+import android.widget.RelativeLayout;
+
+public class PageOne extends RelativeLayout{
+	private ApplicationActivity applicationActivity;
+	
+	public PageOne(Context context, AttributeSet attrs) {
+		super(context, attrs);
+	}
+	private Button mButtonBegin;
+	private Button mButtonBack1;
+	private Button mButtonBack2;
+	private Button mButtonNext;
+	private Button mButtonDoubleBack;
+	
+	public void UpdateLayout() {
+		mButtonBegin = (Button) findViewById(R.id.button_begin);
+		mButtonBack1 = (Button) findViewById(R.id.button_back_1);
+		mButtonBack2 = (Button) findViewById(R.id.button_back_2);
+		mButtonNext = (Button) findViewById(R.id.button_next);
+		mButtonDoubleBack = (Button) findViewById(R.id.button_doubleback);
+		
+		mButtonBegin.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				
+			}
+		});
+		
+		mButtonBack1.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				// TODO Auto-generated method stub
+				
+			}
+		});
+		
+		mButtonBack2.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				// TODO Auto-generated method stub
+				
+			}
+		});
+		
+		mButtonNext.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				// TODO Auto-generated method stub
+				
+			}
+		});
+		
+		mButtonDoubleBack.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				// TODO Auto-generated method stub
+				
+			}
+		});
+	}
+}

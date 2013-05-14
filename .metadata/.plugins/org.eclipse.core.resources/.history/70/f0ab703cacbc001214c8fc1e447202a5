@@ -1,0 +1,14 @@
+package com.example.applicationactivity;
+
+import android.content.Context;
+import android.widget.RelativeLayout;
+
+public class PageOne extends RelativeLayout{
+
+	public PageOne(Context context) {
+		super(context);
+		
+		
+	}
+
+}

@@ -24,10 +24,13 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int button1=0x7f070001;
-        public static final int button2=0x7f070003;
+        public static final int button_back_1=0x7f070003;
+        public static final int button_back_2=0x7f070005;
+        public static final int button_begin=0x7f070002;
+        public static final int button_doubleback=0x7f070006;
+        public static final int button_next=0x7f070004;
         public static final int pager=0x7f070000;
-        public static final int textView1=0x7f070002;
+        public static final int textView1=0x7f070001;
     }
     public static final class layout {
         public static final int application_activity=0x7f030000;

@@ -1,0 +1,65 @@
+package com.example.applicationactivity;
+
+import android.content.Context;
+import android.text.style.UpdateLayout;
+import android.util.AttributeSet;
+import android.view.View;
+import android.widget.Button;
+import android.widget.RelativeLayout;
+
+public class PageOne extends RelativeLayout{
+	
+	public PageOne(Context context, AttributeSet attrs) {
+		super(context, attrs);
+	}
+	private Button mButtonBegin;
+	private Button mButtonBack1;
+	private Button mButtonBack2;
+	private Button mButtonNext;
+	private Button mButtonDoubleBack;
+	
+	public void UpdateLayout() {
+		mButtonBegin.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+			}
+		});
+		
+		mButtonBack1.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				// TODO Auto-generated method stub
+				
+			}
+		});
+		
+		mButtonBack2.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				// TODO Auto-generated method stub
+				
+			}
+		});
+		
+		mButtonNext.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				// TODO Auto-generated method stub
+				
+			}
+		});
+		
+		mButtonDoubleBack.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				// TODO Auto-generated method stub
+				
+			}
+		});
+	}
+}
