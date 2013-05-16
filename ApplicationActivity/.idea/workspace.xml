@@ -21,249 +21,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f1ed0bd-af50-4172-abb6-7a016ba2b8e2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/0/10849f38cabc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/0/b0ea31cba8bc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/0/d01ffd6ca5bc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/12/008c801cc2bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/12/506179b6a5bc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/12/e04e61bcc1bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/15/103d4070cabc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/16/9066015fc6bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/19/d0c27532bfbc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/2/f00748d9c2bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/20/c033887ac2bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/21/8070b491aabc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/21/f0d83dadaabc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/23/509b5b3cc2bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/23/e09882bcc9bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/24/00fd2194c9bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/25/20a339b002bc00121761aa945a07fa2b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/27/70ae8682a0bc0012125ad695cdb29660" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/28/70ca9c22a6bc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/2a/70c3d300cabc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/2b/90926ecebdbc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/2c/104a1a8ebbbc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/2c/b05befc5cabc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/2e/103bd630a8bc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/2e/800cd1d4c7bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/2f/10fc563a9ebc0012125ad695cdb29660" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/30/c0374985cabc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/32/b03bf53ca0bc0012125ad695cdb29660" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/32/e0460c9f00bc00121761aa945a07fa2b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/33/30a7cf8aa0bc0012125ad695cdb29660" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/33/e0de2ddecabc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/34/b0e86557c2bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/34/d0f3c441febb00121761aa945a07fa2b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/34/e08f9ea8fdbb00121761aa945a07fa2b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/35/a0c80c06c0bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/36/a0e3f746a6bc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/36/d03d4e0706bc0012166cf5af79fc3095" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/38/a06fe4dbc0bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/38/b0335aeac7bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/38/c0aea00dabbc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/3b/40418714bfbc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/3b/90695c1cbfbc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/3c/7024dcb0a1bc0012125ad695cdb29660" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/3d/00b598ded2bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/3d/b07f6661c6bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/3f/c073dab0c2bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/4/809a0916cabc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/40/00e1117cc2bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/40/30f9b4b49ebc0012125ad695cdb29660" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/40/7009eed1cabc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/40/e00f0951bfbc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/42/50bf3cd506bc0012166cf5af79fc3095" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/42/603abed805bc0012166cf5af79fc3095" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/42/c090a1d406bc0012166cf5af79fc3095" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/43/b0b26d6e98bc001213bb841ca67ed463" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/44/003b0565aabc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/49/f0f35546cabc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/4a/7021197ac6bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/4d/b03610fe05bc0012166cf5af79fc3095" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/5/20b9c499c2bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/51/60f7459e05bc0012166cf5af79fc3095" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/51/70592c64a5bc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/53/109554dba7bc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/53/70e0bc23a6bc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/54/a004f92ac8bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/58/60d4584b04bc00121dfddd6349f1e66e" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/5d/c089be7fccbc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/6/e07f0a9f05bc0012166cf5af79fc3095" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/61/d01cd452c8bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/62/302f87649bbc0012125ad695cdb29660" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/62/8088dc23c9bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/62/a0a60557cabc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/63/c046e3d198bc001213bb841ca67ed463" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/65/909aa473c6bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/65/f091d311cabc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/66/70ff0f61bfbc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/66/d0a6a61bfebb00121761aa945a07fa2b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/68/20981b729bbc0012125ad695cdb29660" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/68/5073fd83c9bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/68/60b16531cabc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/68/a0eb90a2c2bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/68/b0400bd7a9bc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/69/f0d132fda8bc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/6a/8027f2b8bbbc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/6c/90f04481a9bc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/6f/50efa6d8a9bc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/7/406f47b9c2bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/70/907d1c6fcabc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/70/b0c4b279a9bc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/70/e04596d4a5bc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/71/107e2733a8bc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/72/f00bc00acabc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/73/f08d8eecc9bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/79/10b3e86098bc001213bb841ca67ed463" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/79/e0977da005bc0012166cf5af79fc3095" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/7b/f01f8ac7cabc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/7c/70c38daa02bc00121761aa945a07fa2b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/7d/a0edacd9a9bc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/7e/706f17f8c9bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/7e/e0eae6dac2bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/7f/70ffedc202bc00121761aa945a07fa2b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/80/809a87fbcabc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/81/50336d61febb00121761aa945a07fa2b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/81/704b9d36cabc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/81/d05adc08a9bc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/82/90baa1ddc1bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/82/e0f2eab7cabc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/83/004d157bccbc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/83/a035bfd8d2bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/84/903eb0e3bfbc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/84/9053c3b106bc0012166cf5af79fc3095" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/86/00cdecdcc2bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/86/40eb3551cabc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/87/40d73888c2bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/87/d0b0cce2c9bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/88/600f273dc7bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/88/f00114ead2bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/8a/003c8e5bcabc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/8c/40ba3c4b9bbc0012125ad695cdb29660" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/8c/8025d000c0bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/8c/80343d7fbbbc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/8e/40d5d09ba0bc0012125ad695cdb29660" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/93/c04b299ec2bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/95/30bc6c5bc8bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/95/9033592ba8bc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/95/a002d8c000bc00121761aa945a07fa2b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/96/202b864f98bc001213bb841ca67ed463" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/97/00553c80bbbc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/97/6075baba00bc00121761aa945a07fa2b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/97/c048adaf9ebc0012125ad695cdb29660" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/97/e0c8b52afebb00121761aa945a07fa2b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/98/10e9f6a8fdbb00121761aa945a07fa2b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/9b/100a2849a6bc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/9b/705cd7d6cabc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/9d/e08015b4cabc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/9e/10e81546a6bc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/9e/50294067cabc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/9e/c09018f2a8bc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/a/00e8183aa6bc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/a/e0f10cd1c2bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/a0/2056e63ec8bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/a2/a02c9c3ba6bc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/a2/f00d8e77bfbc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/a3/503cfbfba8bc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/a3/a0f40728c7bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/a4/90c03fa9bbbc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/a5/404b5cb9ccbc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/a6/8009e4f3cabc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/a7/20316fcb00bc00121761aa945a07fa2b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/a7/b010dffbc7bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/a8/c0bcf0b900bc00121761aa945a07fa2b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/a8/f005ad15a6bc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/a9/90ff4986c2bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/aa/207a13c000bc00121761aa945a07fa2b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/ab/f074f0d7c7bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/ad/806ec7fcbfbc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/ad/80ad8f2da6bc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/ae/b0495a8da0bc0012125ad695cdb29660" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/af/00e6395bc0bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/af/f0f4faa6a0bc0012125ad695cdb29660" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/b6/10dd979d05bc0012166cf5af79fc3095" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/b6/70a5f84ecabc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/b6/b034ba6aa5bc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/b7/c0b3cedebfbc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/b8/50c3debbbfbc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/b9/7051ea5b98bc001213bb841ca67ed463" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/b9/809b7d20c8bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/bc/00e47ef69bbc0012125ad695cdb29660" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/be/a01f36ecc7bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/c2/107a339dc2bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/c4/8054e769cabc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/c4/f0e44f1ba6bc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/c6/10ced4f105bc0012166cf5af79fc3095" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/c6/6029fe0aa9bc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/c7/90386e9b00bc00121761aa945a07fa2b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/c8/a04993cd00bc00121761aa945a07fa2b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/cb/e00df40ac2bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/cc/80cd7887c0bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/cc/f0fe2a09c8bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/d/8008d497c9bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/d1/0026c8e89bbc0012125ad695cdb29660" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/d4/8086c4d5c2bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/d5/20df171cc2bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/d5/708eba59bfbc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/d7/20685eb7bbbc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/d7/20f9f8d706bc0012166cf5af79fc3095" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/d8/80f08964aabc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/da/b0cfa656c8bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/dc/30a950dbc2bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/dd/f0771117a6bc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/de/f09f8ee9bfbc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/df/70854218c8bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/e0/20d882c9c9bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/e0/30732076cabc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/e2/4078715c97bc001213bb841ca67ed463" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/e3/0086c9b7bbbc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/e4/20d760bebbbc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/e8/20ba30cc05bc0012166cf5af79fc3095" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/e9/201cb532c7bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/ea/102a08389ebc0012125ad695cdb29660" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/ea/609c2f88aabc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/ec/2098ceb2fdbb00121761aa945a07fa2b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/f2/509938b1c2bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/f4/201ae2a902bc00121761aa945a07fa2b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/f4/40a0a874cabc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/f6/40f317d79bbc0012125ad695cdb29660" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/f6/e027be48aabc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/f7/80f9ac0fabbc00121e6faafbe7c8913d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/f8/40fe67ca98bc001213bb841ca67ed463" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/f8/701b705ac2bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/fa/e017e1cfc9bc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/fd/2020e9b0cabc00121e07e04f7e367f5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/ApplicationActivity/org.eclipse.jdt.core/state.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/3.tree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/4.tree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/7.tree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/26522e0d83a422eed93329ece7565cfc/_0.cfs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/26522e0d83a422eed93329ece7565cfc/segments_2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.team.cvs.core/.running" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/ApplicationActivity.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dexedLibs/android-support-v4-2d7b90861f8cdaf32510a1d6e9aff47e.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/drawable-hdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/drawable-mdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/drawable-xhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/drawable-xxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/resources.ap_" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/applicationactivity/ApplicationActivity.java" afterPath="$PROJECT_DIR$/src/com/example/applicationactivity/ApplicationActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ApplicationActivity.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="1f1ed0bd-af50-4172-abb6-7a016ba2b8e2" time="1368733124783" ignored="false" />
+    <file path="/Dummy.txt" changelist="1f1ed0bd-af50-4172-abb6-7a016ba2b8e2" time="1368733150945" ignored="false" />
     <file path="/NextActivity.java" changelist="1f1ed0bd-af50-4172-abb6-7a016ba2b8e2" time="1368718205924" ignored="false" />
     <file path="/fragment.java" changelist="1f1ed0bd-af50-4172-abb6-7a016ba2b8e2" time="1368718385518" ignored="false" />
     <file path="/ApplicationActivity.java" changelist="1f1ed0bd-af50-4172-abb6-7a016ba2b8e2" time="1368732807520" ignored="false" />
@@ -330,7 +92,7 @@
       <file leaf-file-name="ApplicationActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/applicationactivity/ApplicationActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="266" selection-end="266" vertical-scroll-proportion="0.19794722">
+            <state line="9" column="0" selection-start="266" selection-end="266" vertical-scroll-proportion="0.17464425">
               <folding>
                 <element signature="e#1014#1041#0" expanded="true" />
               </folding>
@@ -653,12 +415,17 @@
       <updated>1368715056653</updated>
       <workItem from="1368715059697" duration="316000" />
       <workItem from="1368715391685" duration="3423000" />
-      <workItem from="1368722404726" duration="9757000" />
+      <workItem from="1368722404726" duration="9773000" />
     </task>
+    <task id="LOCAL-00001" summary="Complete practice application (final)">
+      <created>1368733159592</created>
+      <updated>1368733159592</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13496000" />
+    <option name="totallyTimeSpent" value="13512000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -691,13 +458,13 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32954547" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32954547" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24337122" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24337122" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962963" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15048026" sideWeight="0.67045456" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15048026" sideWeight="0.7566288" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24066168" sideWeight="0.7502365" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14354323" sideWeight="0.67045456" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14354323" sideWeight="0.7566288" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28314394" sideWeight="0.34951973" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -785,7 +552,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/applicationactivity/ApplicationActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="266" selection-end="266" vertical-scroll-proportion="0.19794722">
+        <state line="9" column="0" selection-start="266" selection-end="266" vertical-scroll-proportion="0.17464425">
           <folding>
             <element signature="e#1014#1041#0" expanded="true" />
           </folding>
