@@ -1,7 +1,5 @@
 package com.example.applicationactivity;
 
-import java.lang.ref.WeakReference;
-
 import android.app.Activity;
 import android.os.Bundle;
 import android.support.v4.view.PagerAdapter;
@@ -10,6 +8,8 @@ import android.util.Log;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+
+import java.lang.ref.WeakReference;
 
 public class ApplicationActivity extends Activity implements ViewPager.OnPageChangeListener, View.OnClickListener {
 
@@ -36,47 +36,48 @@ public class ApplicationActivity extends Activity implements ViewPager.OnPageCha
 		@Override public Object instantiateItem(ViewGroup container, int position) {
 			View view = null;
 			if (mActivity.get() != null) {
-				final ApplicationActivity activity = mActivity.get();
-				view = activity.getLayoutInflater().inflate(LAYOUT_IDS[position], null);
+				final ApplicationActivity activity;
+                activity = mActivity.get();
+                if (activity == null) throw new AssertionError();
+                view = activity.getLayoutInflater().inflate(LAYOUT_IDS[position], null);
 
 				if (mActivity.get() != null) {
-					switch (position) {
-						case 0:
-							mActivity.get().mButtonBegin = (Button) view.findViewById(R.id.button_begin);
-							mActivity.get().mButtonBegin.setOnClickListener(mActivity.get());
-							break;
-						case 1:
-							mActivity.get().mButtonBack1 = (Button) view.findViewById(R.id.button_back_1);
-							mActivity.get().mButtonBack1.setOnClickListener(mActivity.get());
-							mActivity.get().mButtonNext = (Button) view.findViewById(R.id.button_next);
-							mActivity.get().mButtonNext.setOnClickListener(mActivity.get());
-							break;
-						case 2:
-							mActivity.get().mButtonBack2 = (Button) view.findViewById(R.id.button_back_2);
-							mActivity.get().mButtonBack2.setOnClickListener(mActivity.get());
-							mActivity.get().mButtonDoubleBack = (Button) view.findViewById(R.id.button_doubleback);
-							mActivity.get().mButtonDoubleBack.setOnClickListener(mActivity.get());
-							break;
-					}
-				}
+                    switch (position) {
+                        case 0:
+                            mActivity.get().mButtonBegin = (Button) view.findViewById(R.id.button_begin);
+                            mActivity.get().mButtonBegin.setOnClickListener(mActivity.get());
+                            break;
+                        case 1:
+                            mActivity.get().mButtonBack1 = (Button) view.findViewById(R.id.button_back_1);
+                            mActivity.get().mButtonBack1.setOnClickListener(mActivity.get());
+                            mActivity.get().mButtonNext = (Button) view.findViewById(R.id.button_next);
+                            mActivity.get().mButtonNext.setOnClickListener(mActivity.get());
+                            break;
+                        case 2:
+                            mActivity.get().mButtonBack2 = (Button) view.findViewById(R.id.button_back_2);
+                            mActivity.get().mButtonBack2.setOnClickListener(mActivity.get());
+                            mActivity.get().mButtonDoubleBack = (Button) view.findViewById(R.id.button_doubleback);
+                            mActivity.get().mButtonDoubleBack.setOnClickListener(mActivity.get());
+                            break;
+                    }
+                }
 				container.addView(view);
 			}
 			return view;
 		}
 	}
 
-	private ApplicationActivityAdapter mAdapter;
-	private ViewPager mPager;
+    private ViewPager mPager;
 	private Button mButtonBegin;
 	private Button mButtonBack1;
 	private Button mButtonBack2;
 	private Button mButtonNext;
 	private Button mButtonDoubleBack;
 
-	@Override protected void onCreate(Bundle savedInstanceState) {
+    @Override protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.application_activity);
-		mAdapter = new ApplicationActivityAdapter(this);
+        ApplicationActivityAdapter mAdapter = new ApplicationActivityAdapter(this);
 
 		mPager = (ViewPager) findViewById(R.id.pager);
 		mPager.setOffscreenPageLimit(5);
@@ -85,12 +86,11 @@ public class ApplicationActivity extends Activity implements ViewPager.OnPageCha
 	}
 
 	@Override public void onPageScrollStateChanged(int arg0) {
-		// TODO Auto-generated method stub
 
 	}
 
 	@Override public void onPageScrolled(int arg0, float arg1, int arg2) {
-
+		
 	}
 
 	@Override public void onPageSelected(int arg0) {
