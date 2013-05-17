@@ -71,15 +71,17 @@ public class ApplicationActivity extends Activity implements ViewPager.OnPageCha
 
 		@Override public Object instantiateItem(ViewGroup container, int position) {
 			View view = null;
-			if (mActivity.get() != null) {
+            if (mActivity.get() != null) {
                 if (position == Views.PAGE_1.ordinal()) {
+                    view = mActivity.get().getLayoutInflater().inflate(Views.PAGE_1.layout, null);
                     ((Page1VIew) view).setPage1Callbacks(mActivity.get());
                 } else if (position == Views.PAGE_2.ordinal()) {
+                    view = mActivity.get().getLayoutInflater().inflate(Views.PAGE_2.layout, null);
                     ((Page2View) view).setPage2Callbacks(mActivity.get());
                 } else if (position == Views.PAGE_3.ordinal()) {
+                    view = mActivity.get().getLayoutInflater().inflate(Views.PAGE_3.layout, null);
                     ((Page3View) view).setPage3Callback(mActivity.get());
                 }
-
 				container.addView(view);
 			}
 			return view;

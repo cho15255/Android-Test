@@ -36,6 +36,7 @@ public class Page2View extends RelativeLayout{
                 }
             }
         });
+
         Button mNext = (Button) findViewById(R.id.button_next);
         mNext.setOnClickListener(new OnClickListener() {
             @Override
