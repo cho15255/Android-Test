@@ -38,7 +38,7 @@
     <file path="/fragment.java" changelist="a652d8a1-3ce6-48df-ab11-e24b9ddf1fcd" time="1369252475700" ignored="false" />
     <file path="/application_activity.xml" changelist="a652d8a1-3ce6-48df-ab11-e24b9ddf1fcd" time="1369241451697" ignored="false" />
     <file path="/a.xml" changelist="a652d8a1-3ce6-48df-ab11-e24b9ddf1fcd" time="1369242830390" ignored="false" />
-    <file path="/page_1.xml" changelist="a652d8a1-3ce6-48df-ab11-e24b9ddf1fcd" time="1369249669138" ignored="false" />
+    <file path="/page_1.xml" changelist="a652d8a1-3ce6-48df-ab11-e24b9ddf1fcd" time="1369265909077" ignored="false" />
     <file path="/strings.xml" changelist="a652d8a1-3ce6-48df-ab11-e24b9ddf1fcd" time="1369246037193" ignored="false" />
     <file path="/AndroidManifest.xml" changelist="a652d8a1-3ce6-48df-ab11-e24b9ddf1fcd" time="1369246060269" ignored="false" />
     <file path="/a.dummy" changelist="a652d8a1-3ce6-48df-ab11-e24b9ddf1fcd" time="1369246120534" ignored="false" />
@@ -104,19 +104,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ApplicationActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ApplicationActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ApplicationActivity/src/com/example/Controller/ApplicationActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="33" selection-start="1291" selection-end="1291" vertical-scroll-proportion="0.5018587">
+            <state line="27" column="21" selection-start="854" selection-end="854" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Page1VIew.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Page1VIew.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ApplicationActivity/src/com/example/View/Page1VIew.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="3" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0">
+            <state line="11" column="3" selection-start="257" selection-end="257" vertical-scroll-proportion="0.082417585">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Page2View.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ApplicationActivity/src/com/example/View/Page2View.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="46" selection-start="349" selection-end="349" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Page3View.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ApplicationActivity/src/com/example/View/Page3View.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="13" selection-start="316" selection-end="316" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -149,7 +167,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="13" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0">
+            <state line="32" column="29" selection-start="1226" selection-end="1226" vertical-scroll-proportion="-9.6">
               <folding />
             </state>
           </provider>
@@ -194,8 +212,9 @@
         <option value="$PROJECT_DIR$/ApplicationActivity/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/ApplicationActivity/src/com/example/Controller/ApplicationActivity.java" />
         <option value="$PROJECT_DIR$/ApplicationActivity/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/ApplicationActivity/res/layout/page_1.xml" />
         <option value="$PROJECT_DIR$/ApplicationActivity/src/com/example/View/Page1Fragment.java" />
+        <option value="$PROJECT_DIR$/ApplicationActivity/src/com/example/View/Page2View.java" />
+        <option value="$PROJECT_DIR$/ApplicationActivity/res/layout/page_1.xml" />
       </list>
     </option>
   </component>
@@ -267,6 +286,82 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ApplicationActivity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Android-Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ApplicationActivity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="View" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Android-Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ApplicationActivity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Android-Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ApplicationActivity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Android-Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ApplicationActivity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -460,31 +555,31 @@
       <workItem from="1369251350919" duration="71000" />
       <workItem from="1369251435115" duration="78000" />
       <workItem from="1369251900923" duration="785000" />
-      <workItem from="1369265417386" duration="117000" />
+      <workItem from="1369265417386" duration="502000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8274000" />
+    <option name="totallyTimeSpent" value="8659000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32959402" sideWeight="0.8178368" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.234748" sideWeight="0.29775882" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.234748" sideWeight="0.29770446" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23412699" sideWeight="0.7022412" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23342176" sideWeight="0.7015782" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14131995" sideWeight="0.765252" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.83965844" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19081779" sideWeight="0.765252" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19081779" sideWeight="0.765252" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18026565" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924226" sideWeight="0.83965844" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -607,26 +702,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ApplicationActivity/src/com/example/Controller/ApplicationActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="21" selection-start="854" selection-end="854" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ApplicationActivity/src/com/example/View/Page2View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="46" selection-start="349" selection-end="349" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ApplicationActivity/src/com/example/View/Page3View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="13" selection-start="316" selection-end="316" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ApplicationActivity/res/layout/page_1.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0">
+        <state line="32" column="29" selection-start="1226" selection-end="1226" vertical-scroll-proportion="-9.6">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ApplicationActivity/src/com/example/View/Page1VIew.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="3" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ApplicationActivity/src/com/example/Controller/ApplicationActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="33" selection-start="1291" selection-end="1291" vertical-scroll-proportion="0.5018587">
+        <state line="11" column="3" selection-start="257" selection-end="257" vertical-scroll-proportion="0.082417585">
           <folding />
         </state>
       </provider>

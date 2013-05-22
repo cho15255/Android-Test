@@ -13,7 +13,7 @@ import java.util.EventListener;
  * Created by jaehee.cho on 2013-05-17.
  */
 
-public class Page2View extends RelativeLayout{
+public class Page2View extends RelativeLayout {
     public static abstract interface Page2Callbacks extends EventListener {
         public void onPage2BackClick(View view);
         public void onPage2NextClick(View view);
