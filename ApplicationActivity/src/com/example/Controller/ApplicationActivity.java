@@ -2,18 +2,20 @@ package com.example.Controller;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.support.v4.app.FragmentActivity;
 import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.util.Log;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 import com.example.View.Page1VIew;
 import com.example.View.Page2View;
 import com.example.View.Page3View;
 
 import java.lang.ref.WeakReference;
 
-public class ApplicationActivity extends Activity implements ViewPager.OnPageChangeListener, Page1VIew.Page1Callbacks,
+public class ApplicationActivity extends FragmentActivity implements ViewPager.OnPageChangeListener, Page1VIew.Page1Callbacks,
         Page2View.Page2Callbacks, Page3View.Page3Callbacks {
 
     @Override
